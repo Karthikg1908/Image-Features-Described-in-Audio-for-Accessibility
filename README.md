@@ -33,19 +33,19 @@ Here are some sample output images and their corresponding descriptions for this
 
 ### _Description: a black dog and a brown dog playing in a yard_ 
 
-![image](https://github.com/user-attachments/assets/656326c5-f6f4-4466-b3b6-e5a04bb0aef7)
+![image](https://github.com/user-attachments/assets/80e2aeac-3b60-4740-96c7-b048509f7be9)
 
 ________________________________________________________________________________________________________________________
 
 ### _Description: A woman standing on top of a sandy beach._
 
-![image](https://github.com/user-attachments/assets/bdece1f1-8266-461a-af8e-f6893bf6ad23)
+![image](https://github.com/user-attachments/assets/38defe35-d666-4289-bcf0-a3142b6d94dd)
 
 ________________________________________________________________________________________________________________________
 
 ### _Description: Two children are flying a kite in a field._
 
-![image](https://github.com/user-attachments/assets/699d5949-e9a0-4495-b758-0e0ba30cc0d2)
+![image](https://github.com/user-attachments/assets/9acb5ea8-0b1a-4b5f-9e25-aea9b0089b39)
 
 ________________________________________________________________________________________________________________________
 **Feel free to make any modifications to fit your project better! If you need further assistance, please contact at karthikgr1908@gmail.com.**
